@@ -6,8 +6,8 @@ A simple command-line calculator application that supports addition, subtraction
 
 ## Setup Instructions
 
-1. install Python 3 is
-2. Clone this repository:
+1. install Python 3 
+2. Clone this repository
 3. Install pytest
 4. Run the application
 
