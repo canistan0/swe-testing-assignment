@@ -1,6 +1,6 @@
 # swe-testing-assignment
 
-# Quick-Calc 🧮
+# Quick-Calc 
 
 A simple command-line calculator application that supports addition, subtraction, multiplication, and division. Built as part of a software testing assignment to demonstrate unit testing, integration testing, and version control best practices.
 
